@@ -4,4 +4,4 @@
 
 <hr style="border: 10px solid #222; margin: 20px 0;">
 
-**This text is also bold**
+**Software Developer**
