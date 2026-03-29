@@ -1,4 +1,2 @@
-# MaveeCPUT.github.io
-theme: jekyll-theme-minimal
-title: MaveeCPUT homepage
-description: Bookmark this to keep an eye on my project updates!
+# Mvuyisi Mcithwa
+060 679 5254 | mvuyisilindo@gmail.com | https://github.com/wil-it-2026/cv-submission-MaveeCPUT
