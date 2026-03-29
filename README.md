@@ -6,11 +6,13 @@
 
 **Software Developer**
 
-<div style="display: flex; gap: 30px; margin-top: 15px;">
-  <div style="flex: 1;">
-    <!-- Left column - you can add more text here later if needed -->
-  </div>
-  <div style="flex: 1.6;">
-    I'm interested in building practical software to solve real world problems, when I'm thinking or generating ideas on how to solve a particular problem and acting on those ideas is what fuels my productivity and creativity.
-  </div>
-</div>
+<table style="width:100%; border:none;">
+<tr>
+<td style="width:40%; padding-right:40px; vertical-align:top;">
+<!-- Left side (add more info here later if you want) -->
+</td>
+<td style="width:60%; vertical-align:top;">
+I'm interested in building practical software to solve real world problems, when I'm thinking or generating ideas on how to solve a particular problem and acting on those ideas is what fuels my productivity and creativity.
+</td>
+</tr>
+</table>
