@@ -2,7 +2,7 @@
 <table style="width:100%; border:none;">
 <tr>
 <td style="width:40%; padding-right:40px; vertical-align:top;">
-# Mvuyisi Mcithwa
+**Mvuyisi Mcithwa**
 
 060 679 5254 | mvuysilindo@gmail.com | [https://github.com/wil-it-2026/cv-submission-MaveeCPUT](https://github.com/wil-it-2026/cv-submission-MaveeCPUT)
 
